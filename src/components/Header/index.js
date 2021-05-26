@@ -113,7 +113,7 @@ const Header = (props) => {
             //   setLoginModal(true);
             // }}
           >
-            Manu
+            Menu
           </a>
         }
         menus={[
