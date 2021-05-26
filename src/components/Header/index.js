@@ -113,7 +113,7 @@ const Header = (props) => {
             //   setLoginModal(true);
             // }}
           >
-            Login
+            Manu
           </a>
         }
         menus={[
@@ -240,9 +240,9 @@ const Header = (props) => {
           <a href="/" style={{
             color: '#fff',
             textDecoration: 'none',
-            fontSize: '24px',
+            fontSize: '20px',
             padding: '10px',
-            fontWeight: '500'
+            // fontWeight: '500'
           }}>
             <img src={BaazarImage} className="logo" alt="" />
           </a>
